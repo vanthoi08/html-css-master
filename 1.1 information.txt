@@ -1,0 +1,31 @@
+- Nhóm hỗ trợ Telegram: t.me/+4txWg8b_BaMwYzA1
+
+- Link tải Telegram Desktop: desktop.telegram.org
+
+- Link tải Telegram App: App Store or CHPlay
+
+- Source code: github.com/evondev/html-css-master
+
+- Xem thêm các khóa học miễn phí tại: https://tailieusharefree.blogspot.com/
+
+- File thiết kế (Trip_Planner): drive.google.com/file/d/1k7wyx1OMB1VA7fAFhCT_3eghWCsVlBh2/view?usp=sharing
+
+- File thiết kế (GocastUI): drive.google.com/file/d/1MmuW-3oKvmHm7nTNclIjKU7c2zrxafAL/view?usp=share_link
+
+- Fonts chữ: drive.google.com/drive/folders/1oBn65JyXDjHDvJJoEwsAb5tQsiGnkFH2?usp=sharing
+
+- NodeJs(14.17.3): nodejs.org/en/blog/release/v14.17.3
+
+- Gitbash: git-scm.com/downloads
+
+- Danh sách vscode extensions: Auto Rename Tag, Color Highlight, HTML CSS Support, CSS Peek, Hightlight Matching Tag, HTML to CSS autocompletion, Live Preview, Prettier
+
+- Danh sách chrome extensions: EJOY English, VisBug, Eye Dropper, Dimensions, WhatFonts
+
+- Link Figma: figma.com
+
+- Tìm hiểu sơ về Figma: youtube.com/watch?v=1y1AtBn1psA&ab_channel=evondev
+
+- Link video về Javascript: https://drive.google.com/drive/folders/1mSzMAsieRvDN1QHIPKXHd3fffviYWplE
+
+- Chúc các bạn học tập tốt
